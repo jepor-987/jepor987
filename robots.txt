@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sambarjpj.pages.dev/sitemap.xml
+Sitemap: https://jepor-987.github.io/jepor987/sitemap.xml
